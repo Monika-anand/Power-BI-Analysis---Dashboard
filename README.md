@@ -33,3 +33,18 @@ By examining factors such as job title, company type, experience level, employme
 ## Dashboard
 <img width="1525" height="854" alt="Screenshot 2025-10-29 172802" src="https://github.com/user-attachments/assets/50344028-aec0-42ed-bec8-fcefab3aab54" />
 
+## Project Insights
+- Average Salary: ₹115.39K across all remote positions.
+- Top Roles: UX Designer, DevOps Engineer, Data Analyst, and Product Manager dominate WFH employment.
+- Experience vs Salary: Lead-level professionals earn ~27% of total salary share, showing clear experience-based growth.
+- Employment Type: Contract and part-time roles pay slightly higher on average than full-time roles.
+- Top Companies: Adobe, Apple, IBM, and Netflix offer the highest pay for remote positions.
+- Industry Trends: Retail and Media sectors show the strongest adoption of remote work, followed by Technology and Education.
+- Perks Insight: Flexible hours and health insurance are the most common benefits across remote-friendly organizations.
+- Job Satisfaction: Average satisfaction score of 5.66 indicates good overall employee morale but room for improvement in growth opportunities.
+
+## Conclusion
+The Work From Home Analysis highlights how remote employment has transformed work culture. Salary growth aligns with experience and job type, while flexibility and perks drive satisfaction.
+Organizations should offer competitive pay, flexible benefits, and clear career paths to boost engagement.
+Data-driven workforce strategies can enhance productivity and satisfaction by 15–25%.
+
